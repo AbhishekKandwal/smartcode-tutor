@@ -1,0 +1,47 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.staging
+.env.production
+.env.test
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Frontend/Node dependencies and build outputs
+node_modules/
+_node_modules/
+dist/
+build/
+.svelte-kit/
+.next/
+.nuxt/
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini

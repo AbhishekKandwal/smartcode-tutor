@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-dotenv
+passlib[bcrypt]
+python-jose
+requests
+google-generativeai
+python-multipart
+email-validator
+bcrypt==3.2.0
